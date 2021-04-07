@@ -1,4 +1,6 @@
-## Hello, I'm Aditya Jhanwar. This is my personal site I created to serve as a bio!
+Hello, I'm Aditya Jhanwar. This is my personal site I created to serve as a bio!
+
+[ajhanwar.github.io](ajhanwar.github.io)
 
 ## Based on
 - [hagura](https://github.com/sharu725/hagura)
@@ -9,6 +11,6 @@
 ## License
 MIT License
 
-Sourced from https://github.com/jitinnair1/gradfolio/
+Source: https://github.com/jitinnair1/gradfolio/
 
 [![JekyllThemes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com)
