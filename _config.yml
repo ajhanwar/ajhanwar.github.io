@@ -1,6 +1,6 @@
 ### your site title here
 
-title: Your Name
+title: Aditya Jhanwar
 description: subtitle | affiliations | motto
 
 #baseurl: /gradfolio #name of GitHub repository
@@ -12,17 +12,17 @@ highlighter: rouge
 markdown: kramdown
 
 # Pagination
-paginate: 4
+paginate: 1
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
+#facebook: "#"
+#twitter: "#"
 linkedin: "#"
 github: "#"
-researchgate: "#"
-orcid: "#"
+#researchgate: "#"
+#orcid: "#"
 
 highlighter: rouge
 markdown: kramdown
