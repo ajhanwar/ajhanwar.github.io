@@ -3,9 +3,9 @@
 title: Your Name
 description: subtitle | affiliations | motto
 
-baseurl: /gradfolio #name of GitHub repository
-url: #custom url to be used instead of GitHub repository
-email: #
+#baseurl: /gradfolio #name of GitHub repository
+url: https://ajhanwar.github.io
+email: adityajhanwar1@gmail.com
 
 
 highlighter: rouge
