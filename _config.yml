@@ -12,9 +12,9 @@ highlighter: rouge
 markdown: kramdown
 
 # Pagination
-paginate: 1
-permalink:
-paginate_path:
+#paginate: 1
+#permalink:
+#paginate_path:
 
 # Social media links in footer
 linkedin: "https://www.linkedin.com/in/adityajhanwar/"
@@ -38,7 +38,7 @@ compress_html:
   startings: []
 
 #collection
-#collections:
+collections:
 #  projects:
 #    output: true
 #    permalink: /projects/:path/
