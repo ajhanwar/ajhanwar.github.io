@@ -1,6 +1,7 @@
-###Hello, I'm Aditya Jhanwar. This is my personal site I created to serve as a bio!
+## [Website](https://ajhanwar.github.io)
 
-[Website](https://ajhanwar.github.io)
+Hello, I'm Aditya Jhanwar. This is my personal site I created to serve as a bio!
+
 
 ## Based on
 - [hagura](https://github.com/sharu725/hagura)
