@@ -7,6 +7,9 @@ profile:
 published: true
 ---
 
+
+
+
 Hello! I am a Data Scientist with experience in using statistical methodologies to effectively solve business questions.
 
 
