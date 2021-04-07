@@ -17,8 +17,8 @@ markdown: kramdown
 #paginate_path:
 
 # Social media links in footer
-linkedin: "https://www.linkedin.com/in/adityajhanwar/"
-github: "https://github.com/ajhanwar"
+linkedin: "adityajhanwar"
+github: "ajhanwar"
 
 highlighter: rouge
 markdown: kramdown
